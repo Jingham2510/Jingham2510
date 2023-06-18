@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jingham2510
-- 🌱 I’m currently learning Electronic Engineering at University 
+- 🌱 I am an Electroninc Engineering Graduate from the University of York
 
 
 
