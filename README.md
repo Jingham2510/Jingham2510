@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jingham2510
-- 🌱 I am an MEng Electronic Engineering Graduate from the University of York
+- 🌱 I hold an MEng Electronic Engineering from the University of York
 -  I am currently pursuing a PhD in Engineering at Cambridge University
 
 
