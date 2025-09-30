@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jingham2510
-- 🌱 I hold an MEng Electronic Engineering from the University of York
--  I am currently pursuing a PhD in Engineering at Cambridge University
+Hiya, I'm Joe, a second year PhD student at the University of Cambridge, with a particular focus and interest in Robotics!
 
+I hold an MEng from the University of York.
 
 
 <!---
